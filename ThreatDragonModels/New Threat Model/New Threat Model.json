@@ -16,7 +16,8 @@
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.4.1",
-        "cells": []
+        "cells": [],
+        "description": "dawdawd"
       }
     ],
     "diagramTop": 1,
